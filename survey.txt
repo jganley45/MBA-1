@@ -1,0 +1,71 @@
+
+Person ID
+1
+
+Problem
+needs schedule creator app
+
+
+App found [name]/None
+pocket schedule planner
+
+Likes
+looks nice
+
+Don't likes
+doesnt help for creating online schedule for covid
+
+Improvements
+factor in covid changes
+
+
+Person ID
+2
+
+Problem
+random pen pal app
+
+App found [name]/None
+SLOWLY
+
+Likes
+visually appealing
+
+Don't likes
+in app purchases
+
+Improvements
+could be faster
+
+Person ID
+3
+
+Problem
+make your own snapchat filter
+
+App found [name]/None
+none
+
+Likes
+Don't likes
+
+
+
+
+Person ID
+
+4
+Problem
+
+pop music soundboard app
+
+App found [name]/None
+none
+
+Likes
+Don't likes
+Improvements
+Age [optional]
+Gender [optional]
+Education/occupation [optional]
+Comments [optional]
