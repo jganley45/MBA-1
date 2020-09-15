@@ -1,0 +1,39 @@
+1. Based on the reports of your fellow classmates during last night's
+class (2020-09-09), please briefly summarize any new ideas for apps to
+solve people's problems that you have come up with as a result of
+listening to other students.
+
+One of the apps mentioned by a fellow student of mine was an app that tracks
+who has fed the pets.  I know growing up that this was a big thing my family
+would always wonder about.  It definitely would have made my family's lives
+easier.
+
+
+2. Several people mentioned the "conflict" between the desire to have
+a free app, and developers' desire (and need) to get compensated. Can
+you suggest any ways by which developers can reap their creativity's
+and efforts' rewards without alienating their "customer base" by
+inundating with ads and/or charging them.
+
+A developer could create a social media app that is free to use, but as it
+gets more popular, the creators that are using the app begin to make money
+off of it.  The developer could then start to charge those creators a tax
+ and therefore start to make profit off of their app.
+
+
+3. Please point to any app/software/website that offers in your
+opinion an excellent UI/UX. Briefly explain in what ways you find its
+UI/UX to be so good.
+
+I think TikTok has a great UI/UX experience.  The app works absolutely
+ perfect. I picked up on how to use it really easily.  The algorithm
+  in which TikTok finds videos that their users might find interesting is
+  spot on.
+
+
+4. Have last night's class discussions and/or items #1-3 gotten you
+closer toward a mobile app you would like to pursue as a project for
+this course? Please discuss briefly.
+
+Yes, I have certainly started to think about an app that would be useful
+to not only me, but other people.
